@@ -1,0 +1,15 @@
+proxy-autologin.rb
+==================
+
+Copyright (c) 2011 Farzad FARID <ffarid@pragmatic-source.com>
+
+A script that simplifies authenticating to a web proxy in a corporate
+environment.
+
+This script should work under Windows and Linux/Unix. It has only been tested
+on Windows so far.
+
+License
+-------
+
+This script is released under the WTFPL license.
